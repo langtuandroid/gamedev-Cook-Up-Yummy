@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd340f3ec23a75448a2f4b4cae4f13e, type: 3}
+  m_Name: Sausage
+  m_EditorClassIdentifier: 
+  name: Sausage
+  sprite: {fileID: 21300030, guid: ddde238e475cfdd42bc9688d45b6b39b, type: 3}
+  cost: 8
+  prefabTapAtTheRightTime: {fileID: 0}
+  prefabSlice: {fileID: 0}
+  prefabDragIngredients: {fileID: 0}
+  prefabTapWhenItsDone: {fileID: 5032470105622431311, guid: d4f8d265b72e5164ca7c4ae2a0355a77,
+    type: 3}
+  prefabTouchAndHold: {fileID: 0}
+  buyingAmount: 4

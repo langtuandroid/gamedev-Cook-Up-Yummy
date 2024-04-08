@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b983ab92cc6b6c4a949b0ace89169eb, type: 3}
+  m_Name: Holiday Lunch Menu
+  m_EditorClassIdentifier: 
+  name: Holiday Lunch Menu
+  icon: {fileID: 21300004, guid: e4dc66df05ee6d64a89b8def02a5dbe6, type: 3}
+  titleSprite: {fileID: 21300034, guid: 40613fdb0d9e62e4db6c76194ee4d684, type: 3}
+  menuToEarnStarsIn: {fileID: 11400000, guid: 75b6b91f77ddcaa49a8e046c87c85e2d, type: 2}
+  starsRequiredToUnlockNextMenu: 9
+  dishes:
+  - {fileID: 11400000, guid: 3106174f428c69a4496b03e3c230af27, type: 2}
+  - {fileID: 11400000, guid: 1c2b2bc75df724a4a872bf50e27312c0, type: 2}
+  - {fileID: 11400000, guid: ccb61766e82f27244a90950d1c039730, type: 2}
+  - {fileID: 11400000, guid: 50013c95d3a73f24f9bcc6e360423117, type: 2}
+  - {fileID: 11400000, guid: 815c7fe4f5481894c84125c25308dcc4, type: 2}

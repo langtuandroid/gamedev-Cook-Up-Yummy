@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: f1eecda1915771149bb4836af2127b46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_0
+  - first:
+      213: 21300002
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_1
+  - first:
+      213: 21300004
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_2
+  - first:
+      213: 21300006
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_3
+  - first:
+      213: 21300008
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_4
+  - first:
+      213: 21300010
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_5
+  - first:
+      213: 21300012
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_6
+  - first:
+      213: 21300014
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_7
+  - first:
+      213: 21300016
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_8
+  - first:
+      213: 21300018
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_9
+  - first:
+      213: 21300020
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_10
+  - first:
+      213: 21300022
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_11
+  - first:
+      213: 21300024
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_12
+  - first:
+      213: 21300026
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_13
+  - first:
+      213: 21300028
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_14
+  - first:
+      213: 21300030
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_15
+  - first:
+      213: 21300032
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_16
+  - first:
+      213: 21300034
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_17
+  - first:
+      213: 21300036
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_18
+  - first:
+      213: 21300038
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_19
+  - first:
+      213: 21300040
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_20
+  - first:
+      213: 21300042
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_21
+  - first:
+      213: 21300044
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_24
+  - first:
+      213: 21300046
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_29
+  - first:
+      213: 21300048
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_22
+  - first:
+      213: 21300050
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_23
+  - first:
+      213: 21300052
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_25
+  - first:
+      213: 21300054
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_26
+  - first:
+      213: 21300056
+    second: Tap-at-the-roght-time-and-Touch-and-hold-Texture_27
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 536
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc8dcee43985f5458fe58ab7b88e772
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 875
+        width: 337
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3dc0c61a74d2749b909e3af8e5e111
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 763
+        width: 53
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0a195aa9606a445825a6ad85d91cc4
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 704
+        width: 274
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf909ffecdbf243b8be95a4608bf20
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 663
+        width: 203
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4248388c74b4db4ca365507c6a720c6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 638
+        width: 239
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a09bf4720de24fb3ea0d7091fe3ec
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 586
+        width: 239
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67764402a74f72749b74ccef48505d0d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 558
+        width: 239
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f43a435c7a9cfa48b1df7a313146274
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 506
+        width: 341
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee07c9a936e72e4d9ae251d5434ca70
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 447
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24fc40bfa5e25149959147c67c0b6aa
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 313
+        width: 334
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e12d35dad9fa68478d5d19f183d353d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 268
+        width: 264
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365975b9a9424f4286b97d61420f3a9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_12
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 318
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a56cf22f1a59e4ea2909debbd6a405
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_13
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 117
+        width: 264
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ca99e3c26b0bc468c6f6355b5d0e1a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 179
+        width: 276
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01306e5a0fa78af4da41dd20e4896ae4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 56
+        width: 349
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d43906a84c104fb32d971826eca29
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 56
+        width: 348
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9a184e58ad9784a982831b67e5fb0c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_17
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 80
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d45c3c9dfb8b9f469ce684a279bb110
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 75
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e1e300321df04f961273158f54d95
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 74
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de372ce49c1964baca7e2f053364c1
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_20
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 52
+        width: 280
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db48905e0bbd074d8c2be9ecb1fa14e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 337
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be9150446365c449a1c597eb9652b9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 4
+        width: 333
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43955be23c465bc438f028c20674438e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3
+        width: 331
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff6f1a38958814a99dec195ebe2ff4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_23
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 232
+        width: 276
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71aafbe60886a42ab41e6f00662eea
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 281
+        width: 136
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a97eaf485464643b7d2cffb1712bee
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_25
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 463
+        width: 126
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff295cb55cd7dd74797d169eca5b9228
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_26
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 568
+        width: 142
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67501c4fa48e98245b4f9ec60f6a6ab0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tap-at-the-roght-time-and-Touch-and-hold-Texture_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 643
+        width: 180
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2117c4d9fe25964c9330d2e012cf915
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7b5b49c74a1276946933a89edcc1da8e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_0: 21300000
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_1: 21300002
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_10: 21300020
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_11: 21300022
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_12: 21300024
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_13: 21300026
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_14: 21300028
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_15: 21300030
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_16: 21300032
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_17: 21300034
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_18: 21300036
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_19: 21300038
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_2: 21300004
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_20: 21300040
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_21: 21300042
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_22: 21300048
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_23: 21300050
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_24: 21300044
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_25: 21300052
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_26: 21300054
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_27: 21300056
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_29: 21300046
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_3: 21300006
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_4: 21300008
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_5: 21300010
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_6: 21300012
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_7: 21300014
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_8: 21300016
+      Tap-at-the-roght-time-and-Touch-and-hold-Texture_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

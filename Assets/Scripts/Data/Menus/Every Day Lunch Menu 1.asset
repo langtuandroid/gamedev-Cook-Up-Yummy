@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b983ab92cc6b6c4a949b0ace89169eb, type: 3}
+  m_Name: Every Day Lunch Menu 1
+  m_EditorClassIdentifier: 
+  name: Every Day Lunch Menu
+  icon: {fileID: 21300006, guid: e4dc66df05ee6d64a89b8def02a5dbe6, type: 3}
+  titleSprite: {fileID: 21300040, guid: 40613fdb0d9e62e4db6c76194ee4d684, type: 3}
+  menuToEarnStarsIn: {fileID: 11400000, guid: 5807a9fa4a9a00e439965a56d5fcec79, type: 2}
+  starsRequiredToUnlockNextMenu: 9
+  dishes:
+  - {fileID: 11400000, guid: 2dee1eb2bae8349478eae50f35db688e, type: 2}
+  - {fileID: 11400000, guid: 1509c1bc64aef024ea430fa6c9e83dbc, type: 2}
+  - {fileID: 11400000, guid: d1b3aeee5c5206947873b0355fc4a50e, type: 2}
+  - {fileID: 11400000, guid: 4f57fb83b6fb39b40a92723080f59efe, type: 2}

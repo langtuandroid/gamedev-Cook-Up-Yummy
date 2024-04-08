@@ -1,0 +1,1071 @@
+fileFormatVersion: 2
+guid: 45cd5875a7153a647a2d1bdf5403e936
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DishInformationTextureNew_0
+  - first:
+      213: 21300002
+    second: DishInformationTextureNew_1
+  - first:
+      213: 21300004
+    second: DishInformationTextureNew_2
+  - first:
+      213: 21300006
+    second: DishInformationTextureNew_11
+  - first:
+      213: 21300008
+    second: DishInformationTextureNew_12
+  - first:
+      213: 21300010
+    second: DishInformationTextureNew_17
+  - first:
+      213: 21300012
+    second: DishInformationTextureNew_18
+  - first:
+      213: 21300014
+    second: DishInformationTextureNew_20
+  - first:
+      213: 21300016
+    second: DishInformationTextureNew_24
+  - first:
+      213: 21300018
+    second: DishInformationTextureNew_32
+  - first:
+      213: 21300020
+    second: DishInformationTextureNew_35
+  - first:
+      213: 21300022
+    second: DishInformationTextureNew_37
+  - first:
+      213: 21300024
+    second: DishInformationTextureNew_39
+  - first:
+      213: 21300026
+    second: DishInformationTextureNew_40
+  - first:
+      213: 21300028
+    second: DishInformationTextureNew_41
+  - first:
+      213: 21300030
+    second: DishInformationTextureNew_42
+  - first:
+      213: 21300032
+    second: DishInformationTextureNew_43
+  - first:
+      213: 21300034
+    second: DishInformationTextureNew_44
+  - first:
+      213: 21300036
+    second: DishInformationTextureNew_47
+  - first:
+      213: 21300038
+    second: DishInformationTextureNew_48
+  - first:
+      213: 21300040
+    second: DishInformationTextureNew_49
+  - first:
+      213: 21300042
+    second: DishInformationTextureNew_50
+  - first:
+      213: 21300044
+    second: DishInformationTextureNew_51
+  - first:
+      213: 21300046
+    second: DishInformationTextureNew_52
+  - first:
+      213: 21300048
+    second: DishInformationTextureNew_53
+  - first:
+      213: 21300050
+    second: DishInformationTextureNew_3
+  - first:
+      213: 21300052
+    second: DishInformationTextureNew_4
+  - first:
+      213: 21300054
+    second: DishInformationTextureNew_5
+  - first:
+      213: 21300056
+    second: DishInformationTextureNew_6
+  - first:
+      213: 21300058
+    second: DishInformationTextureNew_7
+  - first:
+      213: 21300060
+    second: DishInformationTextureNew_8
+  - first:
+      213: 21300062
+    second: DishInformationTextureNew_9
+  - first:
+      213: 21300064
+    second: DishInformationTextureNew_10
+  - first:
+      213: 21300066
+    second: DishInformationTextureNew_13
+  - first:
+      213: 21300068
+    second: DishInformationTextureNew_14
+  - first:
+      213: 21300070
+    second: DishInformationTextureNew_15
+  - first:
+      213: 21300072
+    second: DishInformationTextureNew_16
+  - first:
+      213: 21300074
+    second: DishInformationTextureNew_19
+  - first:
+      213: 21300076
+    second: DishInformationTextureNew_21
+  - first:
+      213: 21300078
+    second: DishInformationTextureNew_22
+  - first:
+      213: 21300080
+    second: DishInformationTextureNew_23
+  - first:
+      213: 21300082
+    second: DishInformationTextureNew_25
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DishInformationTextureNew_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 769
+        width: 442
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbaf58df5ba324c8f2874a9966d84a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_1
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 946
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbd870dccb95c4aa62fc3a3ec123a0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_2
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 980
+        width: 191
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f3e985e431c39429afe1a6d23517e3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 987
+        width: 177
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613283413a871b6468cdfe36fc8e78cc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 963
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d253acb59d219a747a91137d6f9faa95
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 947
+        width: 119
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3a26ed7dcbd44aa89f53a9bebed23
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_18
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 949
+        width: 75
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afd093f9f73524abbdb4e89ab0c156
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 874
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55366aff7600a47b4d811eff7d3d10
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_24
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 898
+        width: 218
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1388b10ac390c488b13500c8961fc5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_32
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 878
+        width: 191
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4458221d3faaa4f83ac6181160d44a
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_35
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 858
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf72d500ee3059428e68a4da2b32812
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 863
+        width: 93
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a62411022e5e0948bba9fc5d3821955
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_39
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 732
+        width: 261
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7f6f13e9d8844ea0b12d8db0db2c3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_40
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 713
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8eed76ca2264648b5611ecf5d5b95c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 830
+        width: 134
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f0fae14a7d3148b1d231353372eef
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 590
+        width: 263
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656df2872479427459d649b96f83f18a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_44
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 639
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085eae291518c1a4486db5d615f178cd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 721
+        width: 437
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d636dfab9f194343a15587322e39c74
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 689
+        width: 421
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219d39aa583b6b449d1e7f08329ff62
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 548
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb113bbfcbdc9342bd7d579fc62baea
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 543
+        width: 220
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 20, z: 25, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc1f2a167c93e4c8cd0189638817b8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 630
+        width: 427
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1e37356cf8d84c96be7c8ec181ae3
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 925
+        width: 154
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304144a0b5c5eec4ab1c8ffdf54257cb
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 868
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5d6fb7b11329469be97121f7e58ee
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_5
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 829
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172cfeeb26baf7c43b8ce33054239437
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_6
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 766
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747e5797387f5f4fb6e652bb8f529ca
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_9
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4
+        width: 307
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c35f123f86e5d4d99aa14819d36139
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 313
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99b79447887b2488a1735e1f434ba7
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 258
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9523d296e21994aba7944772437a7c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 261
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b344141c76f14aa463e36a67f61dd
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 342
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acceb50a3fb8f143ad6bc1090d4158f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 441
+        width: 140
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4715ff5036120af4596e54affefe12fe
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e8542a00373044081608d8e463a7e9
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 537
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a3c25dc7a36a469765b6b76a81899
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 544
+        width: 147
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd82e0476120343b5a2e46d01f57d6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DishInformationTextureNew_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 378
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bc5c5036edcc42a97474944034520
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8bc5005568c248e4dae148e3bc839073
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DishInformationTextureNew_0: 21300000
+      DishInformationTextureNew_1: 21300002
+      DishInformationTextureNew_10: 21300064
+      DishInformationTextureNew_11: 21300006
+      DishInformationTextureNew_12: 21300008
+      DishInformationTextureNew_13: 21300066
+      DishInformationTextureNew_14: 21300068
+      DishInformationTextureNew_15: 21300070
+      DishInformationTextureNew_16: 21300072
+      DishInformationTextureNew_17: 21300010
+      DishInformationTextureNew_18: 21300012
+      DishInformationTextureNew_19: 21300074
+      DishInformationTextureNew_2: 21300004
+      DishInformationTextureNew_20: 21300014
+      DishInformationTextureNew_21: 21300076
+      DishInformationTextureNew_22: 21300078
+      DishInformationTextureNew_23: 21300080
+      DishInformationTextureNew_24: 21300016
+      DishInformationTextureNew_3: 21300050
+      DishInformationTextureNew_32: 21300018
+      DishInformationTextureNew_35: 21300020
+      DishInformationTextureNew_37: 21300022
+      DishInformationTextureNew_39: 21300024
+      DishInformationTextureNew_4: 21300052
+      DishInformationTextureNew_40: 21300026
+      DishInformationTextureNew_41: 21300028
+      DishInformationTextureNew_43: 21300032
+      DishInformationTextureNew_44: 21300034
+      DishInformationTextureNew_48: 21300038
+      DishInformationTextureNew_49: 21300040
+      DishInformationTextureNew_5: 21300054
+      DishInformationTextureNew_50: 21300042
+      DishInformationTextureNew_51: 21300044
+      DishInformationTextureNew_52: 21300046
+      DishInformationTextureNew_6: 21300056
+      DishInformationTextureNew_9: 21300062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

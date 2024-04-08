@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a13a2a38b92d3042a34408cdfdb722c, type: 3}
+  m_Name: Appliance1
+  m_EditorClassIdentifier: 
+  name: Waffle Maker
+  sprite: {fileID: 21300004, guid: af69ab6360ff7a1419c469587681827c, type: 3}
+  cost: 150
+  locked: 1
+  applianceSound: {fileID: 8300000, guid: 334070458963eba439b72e2e82f77e14, type: 3}

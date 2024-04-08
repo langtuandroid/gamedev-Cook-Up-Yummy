@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd340f3ec23a75448a2f4b4cae4f13e, type: 3}
+  m_Name: Red beans
+  m_EditorClassIdentifier: 
+  name: Red beans
+  sprite: {fileID: 21300014, guid: 623ae2e3161ceff4e9b4cab159f35053, type: 3}
+  startingAmount: 0
+  cost: 8
+  prefabTapAtTheRightTime: {fileID: 0}
+  prefabSlice: {fileID: 0}
+  prefabDragIngredients: {fileID: 0}
+  prefabTapWhenItsDone: {fileID: 0}
+  prefabTouchAndHold: {fileID: 3886367160555586367, guid: e4a5fe842bcc47d43a13a5150cc2646a,
+    type: 3}
+  buyingAmount: 2

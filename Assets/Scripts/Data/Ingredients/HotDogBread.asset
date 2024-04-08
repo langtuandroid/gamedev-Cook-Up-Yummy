@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd340f3ec23a75448a2f4b4cae4f13e, type: 3}
+  m_Name: HotDogBread
+  m_EditorClassIdentifier: 
+  name: Hot dog bread
+  sprite: {fileID: 21300000, guid: 39ee53f9d9521e34b89e3ad01c1a7528, type: 3}
+  startingAmount: 0
+  cost: 9
+  prefabTapAtTheRightTime: {fileID: 0}
+  prefabSlice: {fileID: 9121952972032871683, guid: b916a464c39a9c04aa81ebbe6777c8c0,
+    type: 3}
+  prefabDragIngredients: {fileID: 0}
+  prefabTapWhenItsDone: {fileID: 0}
+  prefabTouchAndHold: {fileID: 0}
+  buyingAmount: 3

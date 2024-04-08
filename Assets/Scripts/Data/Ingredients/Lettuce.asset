@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd340f3ec23a75448a2f4b4cae4f13e, type: 3}
+  m_Name: Lettuce
+  m_EditorClassIdentifier: 
+  name: Lettuce
+  sprite: {fileID: 21300010, guid: 80d8384d2863b204eb1cc93a50171f55, type: 3}
+  cost: 4
+  prefab: {fileID: 0}
+  buyingAmount: 4
+  timeToWait: 0

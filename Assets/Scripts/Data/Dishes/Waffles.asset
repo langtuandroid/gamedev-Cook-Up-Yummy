@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: Waffles
+  m_EditorClassIdentifier: 
+  name: Waffles
+  sprite: {fileID: 21300004, guid: 2ebb86b4cc273804eaaf097523336d16, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 16
+  earnings2Star: 18
+  earnings3Star: 20
+  goals:
+    goal1Star: 45
+    goal2Star: 65
+    goal3Star: 85
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    amount: 2
+  - ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    amount: 2
+  - ingredient: {fileID: 11400000, guid: 9a3e4219c6e429749bea7a9c1546e7b7, type: 2}
+    amount: 1
+  appliances:
+  - {fileID: 11400000, guid: ef3f1d8eb6880c3469e6fc8e970a0d62, type: 2}
+  creationPhases:
+  - sceneName: MiniGameTapAtTheRightTime
+    timeLimit: 1
+    barPerfectGoal: 0.495
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 2
+    gameVersionPrefab: {fileID: 7945594662213636632, guid: c894ab1efa340a94fb171691f1cb0d5b,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.632
+    ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: d9ace2be8605973449c138e5d8924c6c, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.684
+    ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.49
+    ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameMixFood
+    timeLimit: 2
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7182300021537819213, guid: 835c3797b37cada4d9a9d6de6b8a1004,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 3
+    barPerfectGoal: 0.666
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 8614426572581369047, guid: 28241f94d351c1640936c07c9c967c13,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 334070458963eba439b72e2e82f77e14, type: 3}
+  - sceneName: MiniGameDragTheIngredients
+    timeLimit: 18
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 3921094248955790468, guid: 9044df6ec1b256043b2f1b03f2c12935,
+      type: 3}
+    soundEffect: {fileID: 0}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 074dcb78e7983af4d891c6ebbab79670
+  - enabled: 1
+    path: Assets/Scenes/GroceriesAndRestaurant.unity
+    guid: e6b2bb9b48daad04b9ec29a38010d4a6
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: ec58be5e1a627d04594bab2460ea4d6e
+  - enabled: 1
+    path: Assets/Scenes/MiniGameDragTheIngredients.unity
+    guid: 2ece9c33ff9f42e4ba2b9208e2a03d84
+  - enabled: 1
+    path: Assets/Scenes/MiniGameSlice.unity
+    guid: 2abb131dbe47d334a8c686e9cda5b6bf
+  - enabled: 1
+    path: Assets/Scenes/MiniGameKneadingTheDough.unity
+    guid: bb3f85a225b41344497b2de027d603a0
+  - enabled: 1
+    path: Assets/Scenes/MiniGameMixFood.unity
+    guid: e8f07b58ca145bb4997818e2e3c5ad32
+  - enabled: 1
+    path: Assets/Scenes/EndGameScreen.unity
+    guid: d647019a1d44961418706b311bef7215
+  - enabled: 1
+    path: Assets/Scenes/MiniGameTapAtTheRightTime.unity
+    guid: e1989c3118538c8428aba989c1aebbc9
+  - enabled: 1
+    path: Assets/Scenes/MiniGameTapWhenItsDone.unity
+    guid: be82b6282fa82f549845aee68476cf1c
+  - enabled: 1
+    path: Assets/Scenes/MiniGameTouchAndHold.unity
+    guid: 1f684d38dd9549a4793c79e1adf1de6d
+  m_configObjects: {}

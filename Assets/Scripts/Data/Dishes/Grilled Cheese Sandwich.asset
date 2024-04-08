@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: Grilled Cheese Sandwich
+  m_EditorClassIdentifier: 
+  name: Grilled Cheese Sandwich
+  sprite: {fileID: 21300010, guid: e46b9aed961c0ab4eada0e4f9c3064b1, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 10
+  earnings2Star: 12
+  earnings3Star: 14
+  goals:
+    goal1Star: 50
+    goal2Star: 70
+    goal3Star: 90
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 08dd9b04159c246498a96fe7ed87cefd, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 205efb3e59a02bf45b645b8b8961eb3c, type: 2}
+    amount: 3
+  - ingredient: {fileID: 11400000, guid: 294c64b5fbc224e438e0e8500fe5232a, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 4d9a8f419bb4da0448a61840f98d1313, type: 2}
+    amount: 1
+  appliances: []
+  creationPhases:
+  - sceneName: MiniGameSlice
+    timeLimit: 18
+    barPerfectGoal: 0.45
+    ingredient: {fileID: 11400000, guid: 08dd9b04159c246498a96fe7ed87cefd, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameSlice
+    timeLimit: 18
+    barPerfectGoal: 0.65
+    ingredient: {fileID: 11400000, guid: 205efb3e59a02bf45b645b8b8961eb3c, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameDragTheIngredients
+    timeLimit: 20
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 5393450305196325916, guid: 883166b57f20b7b4baf2fdfdcaf8eb29,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 7
+    barPerfectGoal: 0.35
+    ingredient: {fileID: 11400000, guid: 08dd9b04159c246498a96fe7ed87cefd, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 6582083869510491807, guid: f8cb8f832968fb04b8e20ba6deeb6cf5,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 635d2622daaefca4bb2547e4b2e9816f, type: 3}

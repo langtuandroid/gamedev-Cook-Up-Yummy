@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: ApplePie
+  m_EditorClassIdentifier: 
+  name: Apple pie
+  sprite: {fileID: 21300002, guid: 2ebb86b4cc273804eaaf097523336d16, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 20
+  earnings2Star: 23
+  earnings3Star: 26
+  goals:
+    goal1Star: 45
+    goal2Star: 65
+    goal3Star: 85
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    amount: 2
+  - ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: e8190c59c54e7dc409e9bc48c9676c9c, type: 2}
+    amount: 3
+  - ingredient: {fileID: 11400000, guid: 9408be87d3e743043a5766aaefceec72, type: 2}
+    amount: 3
+  appliances: []
+  creationPhases:
+  - sceneName: MiniGameTapAtTheRightTime
+    timeLimit: 1.5
+    barPerfectGoal: 0.601
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.482
+    ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: d9ace2be8605973449c138e5d8924c6c, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.478
+    ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.552
+    ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.568
+    ingredient: {fileID: 11400000, guid: e8190c59c54e7dc409e9bc48c9676c9c, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameKneadingTheDough
+    timeLimit: 25
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameSlice
+    timeLimit: 15
+    barPerfectGoal: 0
+    ingredient: {fileID: 11400000, guid: 9408be87d3e743043a5766aaefceec72, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameDragTheIngredients
+    timeLimit: 13
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 425459070287534294, guid: f5fd19e77e04141469fea22cb95921f6,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 3
+    barPerfectGoal: 0.617
+    ingredient: {fileID: 11400000, guid: 9408be87d3e743043a5766aaefceec72, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 6582083869510491807, guid: f8cb8f832968fb04b8e20ba6deeb6cf5,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 635d2622daaefca4bb2547e4b2e9816f, type: 3}

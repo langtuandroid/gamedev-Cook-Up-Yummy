@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 40613fdb0d9e62e4db6c76194ee4d684
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GroceriesAndMenuesTexture_0
+  - first:
+      213: 21300002
+    second: GroceriesAndMenuesTexture_1
+  - first:
+      213: 21300004
+    second: GroceriesAndMenuesTexture_2
+  - first:
+      213: 21300006
+    second: GroceriesAndMenuesTexture_3
+  - first:
+      213: 21300008
+    second: GroceriesAndMenuesTexture_4
+  - first:
+      213: 21300010
+    second: GroceriesAndMenuesTexture_5
+  - first:
+      213: 21300012
+    second: GroceriesAndMenuesTexture_6
+  - first:
+      213: 21300014
+    second: GroceriesAndMenuesTexture_7
+  - first:
+      213: 21300016
+    second: GroceriesAndMenuesTexture_8
+  - first:
+      213: 21300018
+    second: GroceriesAndMenuesTexture_9
+  - first:
+      213: 21300020
+    second: GroceriesAndMenuesTexture_12
+  - first:
+      213: 21300022
+    second: GroceriesAndMenuesTexture_13
+  - first:
+      213: 21300024
+    second: GroceriesAndMenuesTexture_14
+  - first:
+      213: 21300026
+    second: GroceriesAndMenuesTexture_17
+  - first:
+      213: 21300028
+    second: GroceriesAndMenuesTexture_19
+  - first:
+      213: 21300030
+    second: GroceriesAndMenuesTexture_21
+  - first:
+      213: 21300032
+    second: GroceriesAndMenuesTexture_26
+  - first:
+      213: 21300034
+    second: GroceriesAndMenuesTexture_10
+  - first:
+      213: 21300036
+    second: GroceriesAndMenuesTexture_11
+  - first:
+      213: 21300038
+    second: GroceriesAndMenuesTexture_15
+  - first:
+      213: 21300040
+    second: GroceriesAndMenuesTexture_16
+  - first:
+      213: 21300042
+    second: GroceriesAndMenuesTexture_18
+  - first:
+      213: 21300044
+    second: GroceriesAndMenuesTexture_20
+  - first:
+      213: 21300046
+    second: GroceriesAndMenuesTexture_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 432
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98c69689c953a24db2ceb9782c13876
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 860
+        width: 114
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791453992462c5e4d8eff32802049487
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 780
+        width: 208
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30b259df9242f4699affd5d60b0d9c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 791
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320c7a6c05ef9144b5bd589789e51b6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 791
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098caf7f82e25494abe9003346a0d9fe
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_6
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 696
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c410a8cc588ede448efed705ef948bf
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 534
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66898a2c594a9c049bc61a65d5b59a33
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 533
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b365a75d6011e84999c7f4ac49aada3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 373
+        width: 242
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e8c48acaf58344b26483937010e65
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 288
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae5554a32b66a43b2931a9db2be572
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 286
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150c6922ae5f83b4982c79e291977009
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 252
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452df92d3c31bbc4397532250a0cdbdc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 211
+        width: 278
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18254581b3c6b4ba51dff95a0bfb27
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_19
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 39
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6440abf0cd7f794daf562c5261ef434
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 111
+        width: 283
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c689f99a9f42d984996faf3bea475fb5
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_26
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 6
+        width: 305
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719163a06548ec46a852d7a09cd7518
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 312
+        width: 139
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d965df7fda7aa478ce16248347e388
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 447
+        width: 131
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99932183c528a624d83b9e8eef6d16d2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 380
+        width: 142
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541dea8370a40c1418daf0346b25d767
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_16
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 310
+        width: 140
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29850df992fef340b7955af2135a23b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_18
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 374
+        width: 141
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba17fc44dfb65624198e18f3ad7b1fc2
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_3
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 783
+        width: 208
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a225968f63ab94f8e453befba85d34
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 521
+        width: 114
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa4473b393b1a941a13714ab03288d0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GroceriesAndMenuesTexture_22
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 39
+        width: 216
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad04354d1b33de42bab111c89cd084f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 715e0cc8cd311434f836033ea17d5115
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GroceriesAndMenuesTexture_0: 21300000
+      GroceriesAndMenuesTexture_1: 21300002
+      GroceriesAndMenuesTexture_10: 21300034
+      GroceriesAndMenuesTexture_11: 21300036
+      GroceriesAndMenuesTexture_12: 21300020
+      GroceriesAndMenuesTexture_13: 21300022
+      GroceriesAndMenuesTexture_14: 21300024
+      GroceriesAndMenuesTexture_15: 21300038
+      GroceriesAndMenuesTexture_16: 21300040
+      GroceriesAndMenuesTexture_17: 21300026
+      GroceriesAndMenuesTexture_18: 21300042
+      GroceriesAndMenuesTexture_19: 21300028
+      GroceriesAndMenuesTexture_2: 21300004
+      GroceriesAndMenuesTexture_20: 21300044
+      GroceriesAndMenuesTexture_21: 21300030
+      GroceriesAndMenuesTexture_22: 21300046
+      GroceriesAndMenuesTexture_26: 21300032
+      GroceriesAndMenuesTexture_3: 21300006
+      GroceriesAndMenuesTexture_4: 21300008
+      GroceriesAndMenuesTexture_5: 21300010
+      GroceriesAndMenuesTexture_6: 21300012
+      GroceriesAndMenuesTexture_7: 21300014
+      GroceriesAndMenuesTexture_8: 21300016
+      GroceriesAndMenuesTexture_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

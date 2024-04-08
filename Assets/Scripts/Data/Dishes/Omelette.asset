@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: Omelette
+  m_EditorClassIdentifier: 
+  name: Omelette
+  sprite: {fileID: 21300000, guid: 2ebb86b4cc273804eaaf097523336d16, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 7
+  earnings2Star: 9
+  earnings3Star: 11
+  goals:
+    goal1Star: 40
+    goal2Star: 60
+    goal3Star: 80
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    amount: 3
+  appliances: []
+  creationPhases:
+  - sceneName: MiniGameTapAtTheRightTime
+    timeLimit: 1.7
+    barPerfectGoal: 0.581
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 3
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameMixFood
+    timeLimit: 3
+    barPerfectGoal: 0.25
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7182300021537819213, guid: 835c3797b37cada4d9a9d6de6b8a1004,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 5
+    barPerfectGoal: 0.593
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 323360193116672846, guid: f14e4c425ac838f47b058a897d9c3e16,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 74d202a7b99123e43b56bc58ca5f7d83, type: 3}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 6
+    barPerfectGoal: 0.581
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 4433533108620549263, guid: dfdb270169049fa4c986237c1f925542,
+      type: 3}
+    soundEffect: {fileID: 0}

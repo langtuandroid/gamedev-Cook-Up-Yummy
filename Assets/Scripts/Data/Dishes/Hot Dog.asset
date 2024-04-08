@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: Hot Dog
+  m_EditorClassIdentifier: 
+  name: Hot dog
+  sprite: {fileID: 21300006, guid: e46b9aed961c0ab4eada0e4f9c3064b1, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 10
+  earnings2Star: 12
+  earnings3Star: 14
+  goals:
+    goal1Star: 50
+    goal2Star: 70
+    goal3Star: 90
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 35e91fac7050c9746978395ed4e2e6b8, type: 2}
+    amount: 2
+  - ingredient: {fileID: 11400000, guid: 08dd9b04159c246498a96fe7ed87cefd, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 05ff265596332db4295eff48e4d8f439, type: 2}
+    amount: 1
+  appliances: []
+  creationPhases:
+  - sceneName: MiniGameSlice
+    timeLimit: 16
+    barPerfectGoal: 0
+    ingredient: {fileID: 11400000, guid: dee6015e664e6c147905597f1e6f5fad, type: 2}
+    ingredientAmount: 2
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameSlice
+    timeLimit: 18
+    barPerfectGoal: 0
+    ingredient: {fileID: 11400000, guid: 05ff265596332db4295eff48e4d8f439, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 6
+    barPerfectGoal: 0.685
+    ingredient: {fileID: 11400000, guid: 35e91fac7050c9746978395ed4e2e6b8, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 3150569308621872945, guid: 3ab6349584fcb8e478158208337fc804,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameDragTheIngredients
+    timeLimit: 22
+    barPerfectGoal: 0.365
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 3172177369903772054, guid: db37d5de127554447b28cf6e2f4414e0,
+      type: 3}
+    soundEffect: {fileID: 0}

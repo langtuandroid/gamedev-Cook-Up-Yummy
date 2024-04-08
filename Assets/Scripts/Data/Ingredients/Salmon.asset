@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfd340f3ec23a75448a2f4b4cae4f13e, type: 3}
+  m_Name: Salmon
+  m_EditorClassIdentifier: 
+  name: Salmon
+  sprite: {fileID: 21300018, guid: ddde238e475cfdd42bc9688d45b6b39b, type: 3}
+  cost: 10
+  prefabTapAtTheRightTime: {fileID: 0}
+  prefabSlice: {fileID: 0}
+  prefabDragIngredients: {fileID: 0}
+  prefabTapWhenItsDone: {fileID: 468989116105821802, guid: df23c4c2994e6794ca71e9f4377e1003,
+    type: 3}
+  prefabTouchAndHold: {fileID: 0}
+  buyingAmount: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b983ab92cc6b6c4a949b0ace89169eb, type: 3}
+  m_Name: Breakfast Menu
+  m_EditorClassIdentifier: 
+  name: Breakfast Menu
+  icon: {fileID: 21300014, guid: 40613fdb0d9e62e4db6c76194ee4d684, type: 3}
+  titleSprite: {fileID: 21300036, guid: 40613fdb0d9e62e4db6c76194ee4d684, type: 3}
+  menuToEarnStarsIn: {fileID: 0}
+  starsRequiredToUnlockNextMenu: 0
+  dishes:
+  - {fileID: 11400000, guid: 64469a5ef72f2ab4fbf97fc2cf68a7bf, type: 2}
+  - {fileID: 11400000, guid: 5194ca2e03fecc34d81b0eb36e200f14, type: 2}
+  - {fileID: 11400000, guid: b55fb326b165cdb4580728b0a0d23927, type: 2}
+  - {fileID: 11400000, guid: 7c76960fb9915754cbdc47c9b202b7d1, type: 2}

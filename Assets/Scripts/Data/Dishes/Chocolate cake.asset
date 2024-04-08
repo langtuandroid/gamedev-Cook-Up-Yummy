@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b629b42d559125149a2f36818a5d642e, type: 3}
+  m_Name: Chocolate cake
+  m_EditorClassIdentifier: 
+  name: Chocolate cake
+  sprite: {fileID: 21300024, guid: 2ebb86b4cc273804eaaf097523336d16, type: 3}
+  prefab: {fileID: 0}
+  earnings1Star: 22
+  earnings2Star: 26
+  earnings3Star: 30
+  goals:
+    goal1Star: 76
+    goal2Star: 86
+    goal3Star: 96
+  ingredients:
+  - ingredient: {fileID: 11400000, guid: 9a3e4219c6e429749bea7a9c1546e7b7, type: 2}
+    amount: 2
+  - ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    amount: 3
+  - ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 5d4d96244a163f64b830ffde86f80eec, type: 2}
+    amount: 1
+  - ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    amount: 1
+  appliances:
+  - {fileID: 11400000, guid: a4fdc3cb10570474dbad44294499ae5c, type: 2}
+  creationPhases:
+  - sceneName: MiniGameTapAtTheRightTime
+    timeLimit: 2
+    barPerfectGoal: 0.642
+    ingredient: {fileID: 11400000, guid: 44ea908eeeb46c549a1a267dafdd25ae, type: 2}
+    ingredientAmount: 3
+    gameVersionPrefab: {fileID: 0}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 4
+    barPerfectGoal: 0.466
+    ingredient: {fileID: 11400000, guid: 69621a15bcf40714a9ec8a44cd245580, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 4
+    barPerfectGoal: 0.655
+    ingredient: {fileID: 11400000, guid: 3f81cdefe562d46429a6fc79a3f4162e, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 713315c4fd9d2ad48a75ddf04fb78273, type: 3}
+  - sceneName: MiniGameTouchAndHold
+    timeLimit: 3
+    barPerfectGoal: 0.514
+    ingredient: {fileID: 11400000, guid: 506c6736bdd463d4d93accb4ea3039dc, type: 2}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7630286309448569215, guid: 4f8fce81d845d3942a342db0b2da2e55,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: d9ace2be8605973449c138e5d8924c6c, type: 3}
+  - sceneName: MiniGameMixFood
+    timeLimit: 0
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 7182300021537819213, guid: 835c3797b37cada4d9a9d6de6b8a1004,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 5
+    barPerfectGoal: 0.507
+    ingredient: {fileID: 11400000, guid: 9408be87d3e743043a5766aaefceec72, type: 2}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 6582083869510491807, guid: f8cb8f832968fb04b8e20ba6deeb6cf5,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 635d2622daaefca4bb2547e4b2e9816f, type: 3}
+  - sceneName: MiniGameDragTheIngredients
+    timeLimit: 20
+    barPerfectGoal: 0
+    ingredient: {fileID: 0}
+    ingredientAmount: 0
+    gameVersionPrefab: {fileID: 677999615152195654, guid: 5766bf53278359242a2c3bd16dab0eb9,
+      type: 3}
+    soundEffect: {fileID: 0}
+  - sceneName: MiniGameTapWhenItsDone
+    timeLimit: 4
+    barPerfectGoal: 0.541
+    ingredient: {fileID: 0}
+    ingredientAmount: 1
+    gameVersionPrefab: {fileID: 7617683888098446868, guid: d13d856d29492e345a11bdcecb60da3b,
+      type: 3}
+    soundEffect: {fileID: 8300000, guid: 8ed96de0287686047a4ea04a6e71a8ea, type: 3}
